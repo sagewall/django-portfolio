@@ -1,8 +1,8 @@
 {
-    "python.pythonPath": "/home/sage/.local/share/virtualenvs/django-portfolio-30xcid2s/bin/python",
-    "python.linting.pylintArgs": [
-        "--load-plugins",
-        "pylint_django",
-        "--errors-only"
-    ]
+  "python.pythonPath": "/home/sage/.local/share/virtualenvs/django-portfolio-30xcid2s/bin/python",
+  "python.linting.pylintArgs": [
+    "--load-plugins",
+    "pylint_django",
+    "--errors-only"
+  ]
 }
